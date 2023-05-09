@@ -20,9 +20,31 @@ namespace AutoService.Pages
     /// </summary>
     public partial class PageAdmin : Page
     {
-        public PageAdmin()
+        private Frame Frame;
+        public PageAdmin(Frame frame)
         {
             InitializeComponent();
+            this.Frame = frame;
+        }
+
+        private void buttonChageAdmins_Click(object sender, RoutedEventArgs e)
+        {
+            this.Frame.Navigate(new Pages.PageChangeAdmins(Frame));
+        }
+
+        private void buttonChageMasters_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void buttonChageClients_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void buttonChageOrders_Click(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }
