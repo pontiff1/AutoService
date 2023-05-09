@@ -46,5 +46,10 @@ namespace AutoService.Pages
         {
 
         }
+
+        private void buttonBack_Click(object sender, RoutedEventArgs e)
+        {
+            this.Frame.GoBack();
+        }
     }
 }

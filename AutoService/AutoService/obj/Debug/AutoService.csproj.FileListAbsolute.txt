@@ -6,3 +6,4 @@ C:\Users\pepel\Desktop\Учеба\4семак\КурсачНовый\AutoService
 C:\Users\pepel\Desktop\Учеба\4семак\КурсачНовый\AutoService\AutoService\obj\Debug\App.g.cs
 C:\Users\pepel\Desktop\Учеба\4семак\КурсачНовый\AutoService\AutoService\obj\Debug\AutoService_MarkupCompile.cache
 C:\Users\pepel\Desktop\Учеба\4семак\КурсачНовый\AutoService\AutoService\obj\Debug\AutoService_MarkupCompile.lref
+C:\Users\pepel\Desktop\Учеба\4семак\КурсачНовый\AutoService\AutoService\obj\Debug\Pages\PageChangeAdmins.g.cs
