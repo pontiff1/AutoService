@@ -1,0 +1,8 @@
+C:\Users\pepel\Desktop\Учеба\4семак\КурсачНовый\AutoService\AutoService\obj\Debug\AutoService.csproj.AssemblyReference.cache
+C:\Users\pepel\Desktop\Учеба\4семак\КурсачНовый\AutoService\AutoService\obj\Debug\AutoService.csproj.SuggestedBindingRedirects.cache
+C:\Users\pepel\Desktop\Учеба\4семак\КурсачНовый\AutoService\AutoService\obj\Debug\MainWindow.g.cs
+C:\Users\pepel\Desktop\Учеба\4семак\КурсачНовый\AutoService\AutoService\obj\Debug\Pages\PageAdmin.g.cs
+C:\Users\pepel\Desktop\Учеба\4семак\КурсачНовый\AutoService\AutoService\obj\Debug\Pages\PageAuth.g.cs
+C:\Users\pepel\Desktop\Учеба\4семак\КурсачНовый\AutoService\AutoService\obj\Debug\App.g.cs
+C:\Users\pepel\Desktop\Учеба\4семак\КурсачНовый\AutoService\AutoService\obj\Debug\AutoService_MarkupCompile.cache
+C:\Users\pepel\Desktop\Учеба\4семак\КурсачНовый\AutoService\AutoService\obj\Debug\AutoService_MarkupCompile.lref
